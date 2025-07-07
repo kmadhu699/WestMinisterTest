@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Installation Requirements
 
 - Install Node.js 
@@ -13,3 +14,6 @@
 ## Running Tests
 
 - To execute all tests, run: `npm run test`
+=======
+# WestMinisterTest
+>>>>>>> origin/main
