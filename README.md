@@ -9,6 +9,7 @@
 
 - Clone the repository or open the Project 
 - Install dependencies: `npm install`
+- Install Playwright : npm init playwright@latest
 - Install Playwright browsers: `npx playwright install`
 
 ## Running Tests
