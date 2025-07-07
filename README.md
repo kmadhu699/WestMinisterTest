@@ -15,7 +15,7 @@
 ## Running Tests
 
 - To execute all tests, run: `npm run test`
-- npx playwright test
+
 
 # WestMinisterTest
 >>>>>>> origin/main
