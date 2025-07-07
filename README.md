@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-- Clone the repository or open the Project 
+- Clone the repository or open the Project: git clone https://github.com/kmadhu699/WestMinisterTest.git
 - Install dependencies: `npm install`
 - Install Playwright : npm init playwright@latest
 - Install Playwright browsers: `npx playwright install`
